@@ -29,7 +29,7 @@ https://developer-online.com/portfolio/stream-vibe/
 ![Homepage Desktop](./screenshots/stream-home.png)
 
 ### Mobile
-![Homepage Mobile](./screenshotsstream-mobile.png)
+![Homepage Mobile](./screenshots/stream-mobile.png)
 
 ## 📌 Project Purpose
 This project was created as a portfolio showcase to demonstrate:
