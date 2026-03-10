@@ -1,5 +1,11 @@
 # StreamVibe
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Minista](https://img.shields.io/badge/Minista-000000?style=for-the-badge)
+
 StreamVibe is a responsive streaming platform web-site built with Minista and React, using HTML5, SCSS, and JavaScript for scalable, maintainable code. 
 It features interactive Swiper components, IMask form inputs, and a fully responsive layout with CSS variables, Flexbox, and Grid.
 
